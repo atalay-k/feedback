@@ -1,0 +1,565 @@
+---
+title: "Eğitimde Geri Bildirim: Biçimlendirici Değerlendirmenin Gücü"
+author: 
+  - name: "Nuri Doğan & Kübra Atalay Kabasakal"
+    affiliation: "Hacettepe Üniversitesi"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    preview-links: auto
+    css: styles.css
+---
+
+## 📌 İçerik
+
+::::: columns
+::: {.column width="70%"}
+-   Bireysel farklılıklar
+-   Biçimlendirici değerlendirme
+-   Geri bildirimin tanımı ve önemi
+-   Etkili geri bildirimin temel ilkeleri
+-   Geri bildirim türleri
+-   Pratik örnekler ve uygulamalar
+:::
+
+::: {.column width="30%"}
+![](images/p1.png){fig-align="center"}
+:::
+:::::
+
+## Bireysel Farklılıklar
+
+-   Birey' kavramı günümüzün etkileşimlerini yönetiyor.
+
+-   **Kişiselleştirme artık yalnızca sunulmuyor, aynı zamanda tüketici hizmetlerinin çoğunluğunun bir parçası olarak bekleniyor**
+
+-   Eğitimde durum neden farklı olsun?
+
+-   **Kişiselleştirilmiş deneyim kavramı her yerde.**
+
+-   **Modern çağda herşey kişiselleşiyor. Kişiselleştirme modern çağın bir olanağı ve parçası: müzikten reklamlara, filmlere kadar.**
+
+-   Netflix önerilerinden Spotify'daki keşif çalma listelerine kadar, teknoloji dünyası, yeni bilgileri kendi özel zevklerine göre uyarladığınızda insanların daha iyi tepki verdiğini (bağımlılaştırdığını) fark etti.
+
+-   **Bu, dijital pazarlama dünyasında yıllardır kullanılan bir yöntem ancak eğitimde potansiyeli henüz fark ediliyor.**
+
+## Eğitimin Bireyselleşmesi
+
+-   Eğitimin kişiselleşmesi /Bireyselleşmesi
+
+-   **Daha önce hiç olmadığı kadar fazla kişisel verinin mevcut olmasıyla, eğitimcilerin öğrencileri için daha kişiselleştirilmiş öğrenme katılımı stilleri geliştirmeleri artık mümkün.**
+
+-   Aslında, konuya özgü yazılımların her öğrencinin profiline uyarlandığı **kişiselleştirilmiş öğrenme** kavramı batıdaki okullar yaygınlaşıyor.
+
+-   **Okullarda bireye doğru kayma nasıl benimsenebilir ve öğrenciler için kişiselleştirilmiş bir deneyim yaratmanın ne gibi faydaları olabilir?**
+
+-   Sürekli olarak ödüllendirici olan bir yöntem, kişiselleştirilmiş geri bildirimdir.
+
+## Biçimlendirici Değerlendirme
+
+Biçimlendirici değerlendirme, öğretme ve öğrenmeyi geliştirmek için öğrenci öğrenmesi hakkında bilgi toplamaya yönelik devam eden bir süreçtir.
+
+:::::: columns
+:::: {.column width="70%"}
+::: smaller
+-   Öğrenme süreci sırasında ortaya çıkar
+-   Öğretmenlere ve öğrencilere **geri bildirim** sağlar
+-   Öğretimi, öğrenci ihtiyaçlarını karşılayacak şekilde uyarlamak için kullanılır
+-   Sadece ölçmeyi değil, öğrenmeyi geliştirmeyi amaçlar
+:::
+::::
+
+::: {.column width="30%"}
+![](images/p2.jpg){fig-align="center"}
+:::
+::::::
+
+## Biçimlendirici Değerlendirme Örnekleri
+
+Black ve Wiliam'a (1998) göre, öğretmenler öğrencilerin bilgilerini artırmak ve anlayışlarını geliştirmek için sorgulama ve sınıf tartışmalarını bir fırsat olarak kullanmalıdır.
+
+:::: smaller
+::: incremental
+-   Basit, olgusal sorular yerine, derinlemesine düşündürücü ve yansıtıcı sorular sorulma
+-   Düşün-eşleş-paylaş etkinlikleri
+-   Olası cevaplar üzerinde öğrenci oylaması
+-   Kısa yazma ödevleri
+-   Kelime anlama kontrolleri
+-   Ana fikirlerin özetlenmesi
+-   Öğretmen gözlemi ile sınıf içi problem çözme
+:::
+::::
+
+::: notes
+**Düşün-Eşleş-Paylaş:**Öğrenciler bir soru veya konu hakkında önce bireysel olarak düşünürler.Daha sonra yanlarındaki bir öğrenciyle düşüncelerini paylaşırlar. Son olarak, grup içinden bir temsilci düşünceleri tüm sınıfla paylaşır.
+
+**Oylama:** Bir soruya birden fazla olası cevap sunulur ve öğrenciler oy vererek hangi cevabın doğru olduğunu düşünürler.
+
+**Yazma ve Paylaşma:** Tüm öğrenciler bir soruya cevap yazar. Öğretmen bazı cevapları yüksek sesle okur.
+
+**Kelime veya kavram anlama:** Öğrencilerden bir konuyu öğrenmeden önce ve sonra kelime dağarcıklarını veya kavramları anlamalarını yazmaları istenir.
+
+**Özetleme:** Öğrencilerden bir ders, tartışma veya okumadan edindikleri ana fikirleri özetlemeleri istenir.
+
+**Problem çözme:** Öğrencilerden ders sonunda bazı problemleri veya soruları çözmeleri ve cevapları kontrol etmeleri istenir.
+:::
+
+## 📈 Biçimlendirici Değerlendirmenin Uygulanması
+
+-   Seyrek uzun testler yerine sık kısa testler kullanma
+-   Yeni öğrenilenleri bir hafta içinde test etme
+-   Test maddelerinin kalitesine dikkat etme
+-   Gelişimi izlemek için açıklamalı portfolyolar kullanma
+-   Ödevi biçimlendirici değerlendirme amacı ile kullanma
+
+::: notes
+Anlama ve uygulama sadece gerçekleri hatırlamaktan çok daha derinlere iner.
+
+Bu, biçimlendirici değerlendirmenin anahtarıdır.
+
+Örneğin, bir öğrenci yerçekimini tanımlayabilir, ancak bu kavramın arkasındaki ilkeleri anlıyor ve uygulayabiliyor mu?
+:::
+
+## 🔄 Geri Bildirim
+
+Geri bildirim, öğrencilere performansları veya anlayışları hakkında sağlanan bilgidir.
+
+:::: incremental
+::: smaller
+-   Hata yapmanın öğrenmeyi geliştirmede temel bir nokta olduğu kabul edilmektedir.
+-   Yanlış anlamaların ve kavram yanılgılarının nerede meydana geldiğine dair geri bildirim, öğrencilerin başarıya ulaşmalarına, daha öz-denetimli olmalarına ve görevleri tamamlama ve hedeflere ulaşma yeteneklerine inanmalarına yardımcı olur.
+-   Geri bildirim sadece not amaçlı kullanılmamalıdır
+-   Öğrenme sırasında sık sık verilen yorumlar, sorular ve tartışma gibi çoklu geri bildirim biçimleri, katılımı ve başarılı olma motivasyonunu teşvik eder.
+:::
+::::
+
+## **Kişiselleştirilmiş geri bildirimin gücü**
+
+-   **Okullarda etkili geri bildirimin faydalarını gösteren birçok çalışma vardır.**
+
+-   Örneğin Phil Race'in " [*Öğrencilerin öğrenmesine yardımcı olmak için geri bildirim kullanma*]{.underline} " makalesi, ünlü gölet üzerindeki dalgalanma modeliyle öğrenmede geri bildirimin önemini vurguladı.
+
+-   **Hatta 1991'de Bellon'un [Teaching from a Research Knowledge Base]{.underline} adlı çalışması , akademik geri bildirim vermenin, diğer tüm öğretim davranışlarından daha güçlü ve tutarlı bir şekilde başarıyla ilişkili olan etkinlik olduğunu ortaya koydu.**
+
+-   Adelaide Üniversitesi'nin yaptığı daha yeni araştırmalar, katılımcıların yüzde 92'sinin geri bildirimin öğrenme açısından önemli olduğunu söylediğini ortaya koydu.
+
+## ☑️ Düzeyleri
+
+-   Hattie ve Timperley (2007) modeline göre geri bildirim dört düzeyde sunulabilir:
+
+:::: incremental
+::: smaller
+-   **Göreve ilişkin geri bildirim:** Öğrencinin yanıtlarının doğruluğu veya yanlışlığı belirtilir
+-   **Görevin sürecine yönelik geri bildirim:** Kullanılan yöntem ve stratejilere ilişkin yorumları içerir
+-   **Öz-düzenlemeye yönelik geri bildirim:** Öğrencinin öğrenme sürecine aktif katılımını desteklemeye yönelik öz güveni artırmaktır
+-   **Kişisel olarak öğrenciye yönelik geri bildirim:** Öğrencinin kişisel özelliklerine odaklanır ve duygusal bir yaklaşım sergiler
+:::
+::::
+
+:::: incremental
+::: smaller
+-   Bu model, geri bildirimin öğrenme sürecinde bir rehberlik aracı olduğunu vurgular
+:::
+::::
+
+## 🏆 Geri Bildirimin Öğrenme Sürecindeki Aşamaları
+
+Etkili geri bildirim, öğrenciyi başarı kriterlerini karşılama yolunda kaydettiği ilerleme hakkında bilgilendirir.
+
+Geri bildirim, biçimlendirici değerlendirmenin temelidir **ancak her geri bildirim etkili değildir.**
+
+:::: incremental
+::: smaller
+-   Besleme (feed-up): Nereye gidiyorum (öğrenme amaçlarım neler?)
+
+-   Geri bildirim (feed-back): Nasıl gidiyorum (kanıtlar bana ne söylüyor?)
+
+-   İleri besleme (feed-forward): Bundan sonra nereye (daha iyi ilerleme kaydetmek için hangi öğrenme faaliyetlerini yapmalıyım?)
+:::
+::::
+
+## 📝 Etkili Geri Bildirim
+
+::: incremental
+-   Zamanlaması, miktarı, formatı ve hitap ettiği gruba göre düzenlenmesi önemlidir.
+
+-   Açık, net, yapıcı ve zamanında olmalıdır
+
+-   Bilişsel mekanizmaları aktive edecek geri bildirimler oluşturulmalıdır.
+
+-   Gelecek performansı geliştirmek için öneriler içermelidir.
+
+-   Öğrenci performansı için açık kriterlere dayanmalıdır.
+
+-   Öğrencilere öğrenmeyi öğrenme becerileri kazandırmalıdır.
+:::
+
+## ✒️Etkili Geri Bildirim
+
+::: incremental
+-   Sadece öğrencilerin hatalarını düzeltmemeli, aktif olarak çalışmalarını yeniden gözden geçirmelerini sağlamaldır
+
+-   Geri bildirimde öğrencinin duygusal durumunu gözetilmelidir.
+
+-   Öğrencilerin özerkliğini artırır
+
+-   Öz-değerlendirme becerilerini geliştirir
+
+-   Kendi öğrenme süreçlerini yönetmelerine yardımcı olur
+:::
+
+::: notes
+Geri bildirimin karmaşıklığı ve uzunluğu dikkate alınmalıdır. Hedef odaklı geri bildirim motivasyonu artırabilir. Geri bildirim, öğrenme sürecinde rehberlik sağlamalıdır. Geri bildirimin ve diğer değişkenler ile ilişkisi dikkate alınmalıdır.
+:::
+
+## 📋 Etkili Geri Bildirim
+
+-   öğretmenden, akrandan ve öğrenciden öğrenciye doğru verilebilir
+
+-   ve ya öğrencilerden öğretmenlere doğru verilebilir.
+
+-   öğrencinin sadece görevi tamamlama faaliyeti değil, görevle ilgili öğrenme hakkında düşünmesini sağlar
+
+-   aile katılımını artırır
+
+::: notes
+Öğretmenler de geri bildirim sürecinden faydalanır. Geribildirim verirken, öğretmenler öğrencilerin neyi iyi anlayıp anlamadıklarına daha fazla dikkat eder ve belirlenen öğrenci ihtiyaçlarını karşılamak için öğretim stratejilerini daha iyi ayarlayabilirler.
+:::
+
+## 🗒️ Geri bildirim türleri
+
+Brookhart (2017) geri bildirimin nasıl etkili bir şekilde verileceği konusunda pratik öneriler sunar:
+
+::: incremental
+-   **Onaylayıcı:** Öğrenci davranışlarının öğretmen tarafından övülüp onaylandığı durumlardır. "Doğru yapmışsın aferin."
+-   **Eleştirici:** Öğrencinin çalışmayla ilgili sorun yaşadığı veya anlamadığı durumları ifade ettiği türdür. "İklimleri haritada göstermede sorun yaşıyorsun. Bunu tekrar etmelisin."
+-   **Yapıcı:** Öğrencinin gelişmesi adına öğretmenin öğrenciyi yönlendirip, ipuçları verdiği türdür. "İklimleri harita üzerinde göstermeden önce harita çizimi konusunda kendini geliştirebilirsin. "
+:::
+
+## 👏 Geri bildirim türleri
+
+Brookhart (2017) geri bildirimin nasıl etkili bir şekilde verileceği konusunda pratik öneriler sunar:
+
+:::: smaller
+::: incremental
+-   **Yıkıcı:** Öğrencinin performansını öğretmenin eleştirip, motivasyonu düşürdüğü türdür. "Ahmet bile bu konuyu anladı. Sana kaç kez anlattım. Çok mu zor bir şey?"
+-   **Onaylayıcı-Eleştirici-Yapıcı:** Üç geribildirimin öğretmen tarafından bir arada kullanıldığı türdür. "Haritada iklimleri doğru göstermişsin ancak biraz daha detaylandırman gerekecek, şekilleri biraz daha fazla kullanman iyi olacak."
+:::
+::::
+
+## 🙋 Geri bildirim türleri
+
+Öğretmenlerin öğretim aşamalarında kullandıkları geri bildirim türlerini dört farklı aşamada değerlendirmiştir (Burnett, 1996).
+
+-   **Negatif geri bildirim**, öğrencilerin ortaya koydukları performansların eksik veya istenilen düzeyde olmadığına dair bildirimleri içerir (Örneğin: "Bu yeterli değil, daha fazla çalışmalısın.").
+-   **Pozitif geri bildirim** ise öğrencilerin ortaya koydukları performansların istenen hedefe yakın olduğunu vurgular ve öğrenciyi takdir eder, över ya da onaylar (Örneğin: "Harika iş!").
+
+## ✔️ Geri bildirim türleri
+
+-   **Çaba temelli geri bildirim**, öğrencinin performansını geliştirme sürecinde gösterdiği çabayı, isteği ya da ilerlemesi gereken adımları ifade eder (Örneğin: "Sen gerçekten çok çalışkan bir öğrencisin.").
+-   **Yetenek temelli geri bildirim**, öğrencinin gösterdiği performansta öne çıkan akademik ya da bireysel yeteneklerine vurgu yapar (Örneğin: "Bu konuda gerçekten çok yeteneklisin.").
+
+::: notes
+Görevle ilgili geribildirim yerine “ego içeren” geribildirimin (övgü şeklinde olsa bile) performans üzerinde olumsuz bir etkisi olduğu görülmektedir (Boulet vd, 1990).
+
+Öğrenciler ayrıca ürün hedefleri yerine süreç hedefleri doğrultusunda çalıştıklarında ve genel öğrenme hedeflerine yönelik ilerlemeyi takip ettiklerinde daha iyi sonuçlar elde ederler (Schunk, 1996).
+
+Notlar, belirli geribildirimlerin öğrenciler üzerindeki olumlu etkisini zayıflatabilir.
+:::
+
+## Geri Bildirim Diyalogları
+
+🎭 Senaryo 1: Bir öğrencinin yazılı ödevi
+
+Öğrenci Çalışması:
+
+Öğretmen Geri Bildirimi:
+
+💁 💬 "Bu çalışmanda çok çaba harcadığın belli. Bu kısmı çok iyi olmuş, ancak şurayı geliştirirsen daha iyi olabilir."
+
+💁 💬 "Başka nasıl bir yol denemeyi düşünüyorsun?"
+
+![](images/p4.PNG){fig-align="center"}
+
+## 📌 Rubrik Örneği
+
+📊 Öğrenci Çalışmalarını Değerlendirme Rubriği
+
+| Kriter | Mükemmel (5) | İyi (4) | Orta (3) | Geliştirilmeli (2) | Yetersiz (1) |
+|------------|------------|------------|------------|------------|------------|
+| İçerik Kalitesi | 🔵 | 🟠 | 🟢 | 🟡 🟠 | 🔴 |
+| Yazım Kuralları | 🔵 | 🟠 | 🟢 | 🟡 🟠 | 🔴 |
+| Yaratıcılık ve Özgünlük | 🔵 | 🟠 | 🟢 | 🟡 🟠 | 🔴 |
+
+## 🎭 Senaryo 2: Sözlü sunum değerlendirmesi
+
+![](images/p3.jpg){fig-align="center"}
+
+Öğretmen Geri Bildirimi: 💁 💬 "Ses tonun çok etkileyiciydi. Sunumun bu kısmı da çok güçlü. Ancak, biraz daha görsel ekleyerek sunumunu destekleyebilirsin."
+
+::: notes
+Övgüyü abartmadan ama teşvik edici bir ton kullanın.
+
+Eleştirinin olumlu ve yapıcı şekilde sunulmasının önemi.
+
+Öğrencinin özgüvenini zedelemekten kaçınmak.
+:::
+
+## Gelişim İzleme
+
+![](images/p5.PNG){fig-align="center"}
+
+## Sıra Sizde
+
+🔗<https://www.menti.com/al8cmtuv4vk4>
+
+![](images/mentimeter_qr_code.png){width="350"}
+
+## Araçlar
+
+<!-- Quizlet, Kahoot, Socrative, ClassMarker, Google Forms  -->
+
+::: panel-tabset
+### Kahoot!
+
+-   🔗 [Kahoot](https://kahoot.com/)
+-   Eğlenceli quizler oluşturma ve değerlendirme.
+-   Anında geri bildirim sağlar.
+-   Oyunlaştırma sayesinde motivasyonu artırır.
+
+### Google Forms
+
+-   🔗 [Forms](https://forms.google.com/)
+-   Hızlı testler, anketler ve geri bildirim formları.
+-   Otomatik notlandırma özelliğiyle değerlendirme sürecini kolaylaştırır.
+
+### Plickers
+
+-   🔗 [Plickers](https://www.plickers.com/)
+
+-   Öğrencilerden hızlıca geri bildirim toplamak için QR kod tabanlı bir araç.
+
+-   Öğrencilerin cihazlara ihtiyacı yoktur; öğretmenin bir telefon veya tableti yeterlidir.
+:::
+
+## Biçimlendirici Değerlendirme ve Geri Bildirimin Faydaları
+
+::::: columns
+::: {.column width="50%"}
+-   Öğrenci başarısında iyileşme
+-   Artan öğrenci katılımı ve motivasyonu
+-   Öz-düzenleyici öğrenme becerilerinin geliştirilmesi
+:::
+
+::: {.column width="50%"}
+-   Farklı öğrenciler için daha eşitlikçi sonuçlar
+-   Öğrenci öğrenimi hakkında sürekli bilgi yoluyla geliştirilmiş öğretim uygulamaları
+:::
+:::::
+
+## Çalışmalar
+
+-   Black ve Wiliam'ın (1998) ufuk açıcı incelemesi, biçimlendirici değerlendirme uygulamalarının 0,4 ila 0,7 arasında etki büyüklükleriyle önemli öğrenme kazanımları sağlayabileceğini ortaya koymuştur. Bu etkiler özellikle düşük başarılı öğrenciler için belirgindir.
+
+-   Referans olması açısından, 0,4 ila 0,7'lik "etki büyüklüğü" orta ila güçlü olarak kabul edilir. Başka bir deyişle, bu bir öğrenciyi 25. yüzdelik dilimden 50. yüzdelik dilime taşımaya eşdeğerdir.
+
+## Çalışmalar
+
+-   Espinoza vd. (2024) 16229 makalede 26 geri bildirim kalite değerlendirmesi çalışması incelenmiş ve 71 farklı maddeyi 9 grupta toplanmıştır:
+
+::::: columns
+::: {.column width="50%"}
+-   Geribildirim Ortamı
+-   Kıyaslama
+-   Geribildirim Özellikleri
+-   İleri Besleme
+-   Besleme
+:::
+
+::: {.column width="50%"}
+-   Pekiştirme
+-   Öz Değerlendirme
+-   Öğretmenin Geribildirim Verme Becerisi
+-   Öğrenci Merkezli Geribildirim
+:::
+:::::
+
+## Çalışmalar
+
+::: smaller
+Wisniewski vd. (2020) tarafından yapılan meta-analiz, geri bildirimin öğrenme üzerindeki etkilerini incelemiştir.
+
+-   435 çalışmadan (61.000+ katılımcı) elde edilen veriler, geri bildirimin öğrenme üzerinde orta düzeyde etkili olduğunu göstermektedir (d = 0.48).
+-   Geribildirim, bilişsel (d = 0.51) ve motor beceriler (d = 0.63) üzerinde, motivasyonel ve davranışsal sonuçlardan (d = 0.33) daha yüksek etkiye sahiptir.
+-   Bilgilendirici dönüt(d = 0.99), düzeltici (d = 0.46) ve cezalandırıcı dönütten (d = 0.24) daha etkilidir.
+-   Öğrenciden öğrenciye dönüt (d = 0.85), öğretmenden öğrenciye (d = 0.47) ve öğrenciden öğretmene (d = 0.35) dönütten daha yüksektir.
+-   Yazılı, sözlü veya bilgisayar destekli geri bildirim arasında önemli bir fark bulunmamıştır.
+:::
+
+## Geri Bildirimde Teknoloji Kullanımı
+
+Çevrimiçi ve harmanlanmış öğrenmenin yaygınlaşması, biçimlendirici değerlendirme için hem zorluklar hem de fırsatlar yaratmıştır. Önemli hususlar şunlardır:
+
+::: incremental
+-   Anında geri bildirim için teknolojiden yararlanma
+-   Otantik, etkileşimli değerlendirmeler tasarlama
+-   Çevrimiçi akran ve öz değerlendirmenin teşvik edilmesi
+-   Akademik dürüstlüğün korunması
+-   Öğrenme analitiğinden yararlanma
+:::
+
+## 🎯 Eğitimde Yapay Zeka Destekli Geri Bildirim Araçları
+
+::: panel-tabset
+### Gradescope
+
+-   [Gradescope](https://www.gradescope.com/)
+    -   Yapay zeka destekli notlandırma
+    -   Rubrik tabanlı geri bildirim
+    -   El yazısı tanıma
+
+### Turnitin
+
+-   [Turnitin](https://www.turnitin.com/)
+    -   İntihal tespiti
+    -   Yapay zeka destekli yazma geri bildirimi
+    -   Otomatik dilbilgisi denetimi
+
+### Grammarly
+
+-   [Grammarly](https://www.grammarly.com/)
+    -   Yapay zeka destekli yazı asistanı
+    -   Dilbilgisi ve stil önerileri
+    -   Kelime dağarcığı geliştirme
+
+<!-- Continue with other tools... -->
+:::
+
+## 🤖 Geri Bildirimde Teknoloji Kullanımı
+
+-   Öğrencilerin performansları hakkında bireyselleştirilmiş ve anında geri bildirim sağlamak, özellikle büyük sınıflarda öğretmenler için zaman alıcıdır.
+
+-   Geleneksel öğretmen geribildiriminin bu dezavantajları öğrencilerin potansiyel performanslarını engellemekte ve öğretmenlerin aşırı iş yükü nedeniyle tükenmiş hissetmelerine yol açmaktadır.
+
+## Çalışmalar
+
+Dönmez (2024), eğitimde yapay zeka tabanlı geri bildirim araçları üzerine 2007'den 2024'e kadar yapılan 239 araştırmayı incelmiştir.
+
+::: smaller
+-   Çalışmada, yayınların özellikle 2019 yılından itibaren artış gösterdiği belirlenmiştir.
+-   En fazla yayın yapılan ülkeler arasında Çin, ABD, Birleşik Krallık, Avustralya ve Kanada öne çıkmaktadır.
+-   Ayrıca, ChatGPT, büyük dil modelleri (large language models) ve etik konuların bu alanda ortaya çıkan yeni ve önemli araştırma konuları olduğu vurgulanmıştır.
+:::
+
+## ChatGPT Destekli Geri Bildirim
+
+Dai vd. (2023) ChatGPT'nin geri bildirim sağlama yeteneğini değerlendirmek amacıyla yaptıkları çalışmada
+
+-   ChatGPT, insan eğitmenlerden daha akıcı ve tutarlı geri bildirim ürettiğini
+
+-   Öğretmenlerle yüksek uyum gösterdiğini
+
+-   Öğrenci gelişimine katkı gösterdiğini bulmuşlardır.
+
+## ChatGPT Destekli Geri Bildirim
+
+Steiss vd. (2024) ChatGPT'nin biçimlendirici geri bildirim sağlama kalitesi ile insan geri bildirimleri ile net talimatlar, doğruluk, önceliklendirme, destekleyici ton kriterlerine göre karşılaştırımışlardır.
+
+-   İyi eğitimli değerlendiricilerin, ChatGPT'den daha yüksek kaliteli geri bildirim sağladığını
+-   ChatGPT, eğitimci eksikliği olan durumlarda etkili bir araç olarak öne çıkabileceğini belirtmişlerdir.
+
+## ChatGPT'nin Argümantasyon Geri Bildirimi
+
+Wang vd. (2024) ChatGPT'nin geri bildirim doğruluğunu ve argüman değerlendirme yeteneğini inceledikleri çalışmada
+
+-   hassasiyet oranı (%91,8) ve hatırlama oranı (%63,2) gösterdiği sonucu açığa çıkmıştır.
+
+-   ChatGPT ve öğretmen geri bildirimi avantaj ve dezavantajlar açısından değerlendirildiklerinde ise her iki yöntem de farklı güçlü yönlere sahip olduğunu belirtmişlerdir.
+
+## ChatGPT ile İçsel Geri Bildirim
+
+Tam vd. (2024), yürüttükleri çalışmada öğrencilerin içsel geri bildirim üretmede yardım ararken ChatGPT ile yaşadıkları deneyimleri keşfetmeyi ve ChatGPT tarafından sağlanan geri bildirimin kalitesini etkileyen faktörleri belirlemeyi amaçlamışlardır.
+
+-   ChatGPT'yi süreç odaklı yazma eğitiminde bir geri bildirim aracı olarak dahil etmenin, öğrencilerin gelişimini ve onları yazmada başarılı olmak için desteklediği sonucuna ulaşılmıştır.
+
+## Zorluklar ve Dikkat Edilmesi Gerekenler
+
+-   Yapay zeka tabanlı geri bildirim araçlarının eğitimdeki potansiyel faydalarına rağmen, entegrasyon sürecinde önemli zorluklar bulunmaktadır.
+
+-   Bu araçların ürettiği geri bildirimin geçerliği ve güvenilirliği sağlanmalı, önyargı ve hata riskleri dikkatle ele alınmalıdır.
+
+-   Öğrenci verilerinin toplanması, gizlilik ve veri koruma endişelerini artırmakta, bu nedenle şeffaflık ve veri anonimleştirme protokolleri gibi önlemler uygulanmalıdır
+
+## Zorluklar ve Dikkat Edilmesi Gerekenler
+
+-   Eğitimciler ve politika yapıcılar, bu etik ve teknik zorlukların üstesinden gelerek yapay zekanın eğitimdeki potansiyelini en iyi şekilde kullanırken, öğrencilerin haklarını ve çıkarlarını korumaya yönelik sağlam güvenceler oluşturmalıdır.
+
+## Zorluklar ve Dikkat Edilmesi Gerekenler
+
+::: incremental
+-   Zaman ve kaynak kısıtlamaları
+-   Mesleki gelişim ihtiyacı
+-   Biçimlendirici ve özetleyici değerlendirmenin dengelenmesi
+-   Güvenirlik ve geçerliğin korunması
+-   Geri bildirim ile öğrenci katılımı
+-   Eşitlik ve erişilebilirlik kaygıları
+:::
+
+## Biçimlendirici Değerlendirme için En İyi Uygulamalar
+
+Araştırmadan yola çıkarak, etkili biçimlendirici değerlendirme için bazı temel öneriler şunlardır:
+
+::: smaller
+1.  Öğrenme hedeflerini ve başarı kriterlerini netleştirin
+2.  Öğrencilerin anladıklarına dair kanıtları sık sık ortaya çıkarın
+3.  Spesifik, eyleme geçirilebilir geri bildirim sağlayın
+4.  Öğrencileri birbirleri için öğrenme kaynakları olarak etkinleştirin (akran değerlendirmesi)
+5.  Öğrencilerin öğrenmeyi sahiplenmesini teşvik edin
+6.  Öğretimi uyarlamak için değerlendirme bilgilerini kullanma
+:::
+
+## Sonuç ve Öneriler:
+
+-   Biçimlendirici değerlendirme ve geri bildirim güçlü araçlardır
+-   Şunları önemli ölçüde artırabilir:
+    -   Öğrenci başarısı
+    -   Katılım
+    -   Öz düzenleme
+-   Uygulamaları çevrimiçi ortamlara uyarlamak çok önemlidir
+-   Bilinçli tasarımla daha etkili öğrenme deneyimleri teşvik edilebilir
+
+## Referanslar
+
+::: smaller
+-   Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7-74.
+
+-   Butler, D.L. and P.H. Winne (1995), “Feedback and Self-regulated Learning: A Theoretical Synthesis”, *Review of Educational Research, 65*(3), 245-281.
+
+-   Dai, W. et al., (2023). Can Large Language Models Provide Feedback to Students? A Case Study on ChatGPT, Proceedings of the 23rd IEEE International Conference on Advanced Learning Technologies (ICALT 2023).
+
+-   Donmez, M. (2024b). AI-based feedback tools in education: a comprehensive bibliometric analysis study. *International Journal of Assessment Tools in Education, 11*(4), 622–646. https://doi.org/10.21449/ijate.1467476
+:::
+
+## Referanslar
+
+::: smaller
+-   Espinoza, V. D., Serón, F. R., Vargas, J. P., Petric, D., Jaras, I. M., Peña, F. S., Valenzuela, N. O., Villagrán, I., Cohen, J. V., & Fuentes-Cimma, J. (2024). Available assessment tools for evaluating feedback quality: a scoping review oriented to education in digital media. *Global Surgical Education - Journal of the Association for Surgical Education, 3*(1). https://doi.org/10.1007/s44186-024-00239-4
+
+-   Langer P. (2011). The use of feedback in education: a complex instructional strategy. *Psychological reports, 109*(3), 775–784. https://doi.org/10.2466/11.PR0.109.6.775-784
+
+-   Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81–112. https://doi.org/10.3102/003465430298487
+:::
+
+## Referanslar
+
+::: smaller
+-   Steiss, J., Tate, T., Graham, S., Cruz, J., Hebert, M., Wang, J., Moon, Y., Tseng, W., Warschauer, M., & Olson, C. B. (2024). Comparing the quality of human and ChatGPT feedback of students’ writing. *Learning and Instruction, 91*, 101894. https://doi.org/10.1016/j.learninstruc.2024.101894
+
+-   Tam, A. C. F. (2024). Interacting with ChatGPT for internal feedback and factors affecting feedback quality. *Assessment ve Evaluation in Higher Education*, 1-17. https://doi.org/10.1080/02602938.2024.2374485
+
+-   Wang, L., Chen, X., Wang, C., Xu, L., Shadiev, R., ve Li, Y. (2024). ChatGPT's capabilities in providing feedback on undergraduate students’ argumentation: A case study. *Thinking Skills and Creativity, 51*, 101440. https://doi.org/10.1016/j.tsc.2023.101440
+
+-   Wisniewski, B., Zierer, K., & Hattie, J. (2020b). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. *Frontiers in Psychology, 10*. https://doi.org/10.3389/fpsyg.2019.03087
+:::
